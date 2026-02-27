@@ -172,5 +172,7 @@
   "discordCommandChoiceOpen": "open",
   "discordCommandChoiceClosed": "closed",
   "discordCommandChoiceMe": "me",
-  "discordCommandChoiceAny": "any"
+  "discordCommandChoiceAny": "any",
+  "discordLinkManagedByHyDiscordX": "Account linking is managed by HyDiscordX. Use HyDiscordX to link your account.",
+  "inGameLinkManagedByHyDiscordX": "Account linking is managed by HyDiscordX. Use the HyDiscordX link command in-game."
 }
